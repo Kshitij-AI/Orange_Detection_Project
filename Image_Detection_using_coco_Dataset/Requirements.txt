@@ -1,0 +1,13 @@
+Library required:
+--> cv2		#pip install opencv-python
+--> matplotlib	#pip install matplotlib
+
+
+Configuration File:
+	https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7#file-ssd_mobilenet_v3_large_coco_2020_01_14-pbtxt
+
+COCO dataset labels:
+	https://github.com/pjreddie/darknet/blob/master/data/coco.names
+
+More information about coco dataset:
+	https://cocodataset.org/#download

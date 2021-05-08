@@ -1,0 +1,11 @@
+Library required:
+--> cv2		#pip install opencv-python
+--> numpy	#pip install numpy
+--> matplotlib	#pip install matplotlib
+--> pixellib	#pip install pixellib
+
+Pre-trained Model weights:
+	Provided in this repository or https://www.google.com/search?rlz=1C1CHBD_enIN915IN915&sxsrf=ALeKk01TlztJoRVuC7vxLtdUu2Zn-PvGZA%3A1620488552193&lei=aLGWYPm1C8GvyAOavbDACA&q=mask_rcnn_coco.h5%20download&ved=2ahUKEwj5iZCktrrwAhXBF3IKHZoeDIgQsKwBKAB6BAgVEAE&biw=1536&bih=722.
+
+More information about coco dataset:
+	https://cocodataset.org/#download

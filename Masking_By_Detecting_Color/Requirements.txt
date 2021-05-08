@@ -1,0 +1,4 @@
+Library required:
+--> cv2		#pip install opencv-python
+--> numpy	#pip install numpy
+--> matplotlib	#pip install matplotlib

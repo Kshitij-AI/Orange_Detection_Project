@@ -1,0 +1,9 @@
+
+--> Understanding Fruit and Vegetable Detection and Feature Extraction using Instance Segmentation.
+	https://medium.com/codalyze/fruit-and-vegetable-detection-and-feature-extraction-using-instance-segmentation-part-1-178cc73122cb
+
+--> Mask Region based Convolution Neural Networks Architecture.
+	https://www.youtube.com/watch?v=4tkgOzQ9yyo&t=154s
+
+--> More information about coco dataset:
+	https://cocodataset.org/#download
